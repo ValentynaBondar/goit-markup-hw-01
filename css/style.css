@@ -1,0 +1,40 @@
+ page {
+     
+ background-color: #fff;
+ color: #757575;
+ }
+ ul{
+     list-style: none;
+ }
+
+ .logo-web{
+     color: #2196F3
+    }
+ /* site-nav */
+ .site-nav .link {
+     color: #212121;
+ }
+
+ .site-nav .link:hover,
+ .site-nav .link:focus{
+     color: #2196F3;
+ }
+ .auth a {
+    color:#757575;
+
+ }
+ .auth-link :hover,
+ .auth-link :focus {
+     color: #2196F3;
+ }
+ 
+ 
+ /*основной цвет текста #757575 */
+ /* второй цвет текста: #212121 */ 
+ /*цвет веб текста #2196F3*/
+ /*цевт в блоке герой текста #ffffff */
+ /* цвет акцент   #2196F3; */
+ /*  цвет фона 1 #2F303A */
+ /*  цвет фона 2 #E5E5E5 */
+ /* цвет фона 3 #F5F4FA */
+ 
